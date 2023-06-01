@@ -1,0 +1,20 @@
+.article {
+    background-color: white; border: 1px solid #a2a9b1;
+    padding: 1rem; margin: 5px 0; border-radius: 5px;    
+}
+.article a {
+    color: #0645ad;
+    position: relative; z-index: 2;
+    font-size: 20px;
+    transition: all 0.2s;
+}
+.article a:hover { color: #0b0080; }
+.article a::after {
+    content: ''; display: block;  z-index: -1;
+    position: absolute; top: 60%; width: 0; height: 5px;
+    background: #FFEA00; transition: width .4s;
+}
+.article a:hover::after { width: 100%; }
+.article p {
+    cursor: default;
+}

@@ -1,0 +1,19 @@
+app-search, app-article { width: 100%; }
+
+header {
+    text-align: center;
+}
+.title, .subtitle { text-align: center; }
+.title {      
+    font-size: 24px; font-weight: bold; text-decoration: underline;  
+    color: black; transition: color 0.35s, text-decoration 0.5s;
+}
+.title:hover { color: #0b0080; text-decoration: underline double; }
+.title::after, .title::before {
+    content: "\f266"; font-family: FontAwesome; font-size: 14px;
+    display: inline-block; margin-inline: 8px; vertical-align: middle;
+}
+.subtitle { 
+    font-size: 12px; font-style: italic; letter-spacing: 1px;
+    margin-bottom: 5px 0 10px 0; cursor: default;
+}
