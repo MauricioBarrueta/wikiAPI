@@ -1,6 +1,9 @@
-🇲🇽 Esta página web consume la API 'MediaWiki', la cuál permite filtrar y consultar una amplia variedad de información disponible     en el sitio web Wikipedia, el usuario ingresa lo que desea buscar y dependiendo la palabra se filtran los resultados que          coincidan con esta.
+🇲🇽 Este sitio web permite filtrar y consultar una amplia variedad de información disponible en el sitio web Wikipedia. El usuario ingresa lo que desea buscar y, dependiendo la palabra, se filtran todos los resultados que coincidan con esta.
 
-🇺🇸 This web page consumes the 'MediaWiki' API, which filters and queries a wide variety of information available on the Wikipedia    website, the user enters what they wants to search for and depending on the word the matching results are filtered.
+🇺🇸 This website allows you to filter and consult a wide variety of information available on the Wikipedia website. The user enters what he/she wants to search for and, depending on the word, all matching results are filtered.
+
+🔗 https://wikipediaclone-61809.web.app/
+
 
 ![wikiAPI](https://github.com/MauricioBarrueta/wikiAPI/assets/60496232/8ac75c5e-a314-4634-8fcd-5d436ad463f6)
 
