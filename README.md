@@ -1,11 +1,10 @@
-🇲🇽 Este sitio web permite filtrar y consultar una amplia variedad de información disponible en el sitio web Wikipedia. El usuario ingresa lo que desea buscar y, dependiendo la palabra, se filtran todos los resultados que coincidan con esta.
+🇲🇽 Sitio web desarrollado con Angular y TypeScript, SCSS y Bootstrap, publicado con Firebase Hosting y conectado a la API de MediaWiki (mediawiki.org/wiki/API).
 
-🇺🇸 This website allows you to filter and consult a wide variety of information available on the Wikipedia website. The user enters what he/she wants to search for and, depending on the word, all matching results are filtered.
+🇺🇸 Website developed with Angular and TypeScript, SCSS and Bootstrap, published with Firebase Hosting and connected to the MediaWiki API (mediawiki.org/wiki/API).
 
 🔗 https://wikipediaclone-61809.web.app/
 
-
-![wikiAPI](https://github.com/MauricioBarrueta/wikiAPI/assets/60496232/8ac75c5e-a314-4634-8fcd-5d436ad463f6)
+![wiki](https://github.com/user-attachments/assets/1b7e37c0-9d49-4b5b-b69c-a808cdc21a6f)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
