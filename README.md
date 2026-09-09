@@ -1,6 +1,6 @@
-🇲🇽 Sitio web desarrollado con Angular y TypeScript, SCSS y Bootstrap, publicado con Firebase Hosting y conectado a la API de MediaWiki (mediawiki.org/wiki/API).
+🇲🇽 Sitio web desarrollado con Angular y TypeScript, CSS y Bootstrap, publicado con Firebase Hosting y conectado a la API de MediaWiki.
 
-🇺🇸 Website developed with Angular and TypeScript, SCSS and Bootstrap, published with Firebase Hosting and connected to the MediaWiki API (mediawiki.org/wiki/API).
+🇺🇸 Website developed with Angular and TypeScript, using CSS and Bootstrap, deployed on Firebase Hosting and connected to the MediaWiki API.
 
 🔗 https://wikipediaclone-61809.web.app/
 
